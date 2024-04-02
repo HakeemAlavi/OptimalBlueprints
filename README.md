@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# About Optimal Blueprints
+
+My fitness program application, with a variety of my science-backed workout plans for different categories of individuals, that will result in the user making more progress with less effort
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
