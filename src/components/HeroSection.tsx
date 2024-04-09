@@ -18,7 +18,7 @@ const HeroSection: React.FC<HeroSectionProps> = () => {
             Less Effort, More Results
           </Typography>
           <Typography variant="subtitle1" paragraph>
-            Achieve your fitness goals with our personalized  and science backed training programs.
+          Unlock your potential with our customized, evidence-based fitness programs
           </Typography>
           {/* Call to action button */}
           <Button variant="contained" color="primary">
