@@ -1,3 +1,4 @@
+import './App.css';
 import React from 'react';
 import AppBarComponent from './components/AppBar';
 import HeroSection from './components/HeroSection';
