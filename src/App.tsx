@@ -4,6 +4,7 @@ import AppBarComponent from './components/AppBar';
 import HeroSection from './components/HeroSection';
 import Testimonials from './components/Testimonials';
 import Features from './components/Features';
+import Footer from './components/Footer';
 
 const App: React.FC = () => {
   return (
@@ -12,6 +13,7 @@ const App: React.FC = () => {
       <HeroSection />
       <Testimonials />
       <Features />
+      <Footer />
       {/* Add other components here */}
     </div>
   );
