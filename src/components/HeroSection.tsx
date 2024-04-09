@@ -14,14 +14,14 @@ const HeroSection: React.FC<HeroSectionProps> = () => {
       <Grid container spacing={4} alignItems="center">
         {/* Text content */}
         <Grid item xs={12} md={6}>
-          <Typography variant="h3" component="h1" gutterBottom>
+          <Typography variant="h3" component="h1" gutterBottom fontFamily="Poppins" fontWeight="bold">
             Less Effort, More Results
           </Typography>
-          <Typography variant="subtitle1" paragraph>
-          Unlock your potential with our customized, evidence-based fitness programs
+          <Typography variant="subtitle1" paragraph color="text.secondary" fontFamily="Poppins"> 
+            Unlock your potential with our customized, evidence-based fitness programs
           </Typography>
           {/* Call to action button */}
-          <Button variant="contained" color="primary">
+          <Button variant="contained" color="primary" style={{ fontFamily: 'Poppins', borderRadius: '12px' }}>
             Get Started
           </Button>
         </Grid>
